@@ -134,7 +134,7 @@ windonux/
 ## 📞 联系方式
 
 - GitHub: https://github.com/yxpil/windonux
-- Email: yxpil@example.com
+- Email: hi@yxpil.com
 
 ---
 
