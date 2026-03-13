@@ -1,0 +1,28 @@
+# Build outputs
+bin/
+*.exe
+*.o
+*.obj
+
+# Compiler output
+*.log
+*.err
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
+.env.local
+.env.*.local
